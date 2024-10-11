@@ -2,4 +2,4 @@
 
 Bienvenue au Tuto@Mate sur Git, GitHub and Co.
 
-Vendredi 11/10/2024
+Vendredi 11/10/2024 et c'était sympa !
